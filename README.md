@@ -49,7 +49,7 @@ gTTS
 
 📦 Setup Instructions
 
-git clone https://github.com/Jahnavimandapalli/AI-Study-Assistant.git
+git clone https://github.com/Jahnavimandapalli/-AI-Study-Assistant
 
 cd AI-Study-Assistant
 
